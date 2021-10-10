@@ -4,6 +4,6 @@ var myArray = [
   ["dog", 3]
 ];
 myArray.shift();
-myArray.unshift(['Paul', 35])
+myArray.unshift(['Paul', 35]);
 // Only change code below this line
 //Добавляет элемент в начало массіва
