@@ -5,5 +5,5 @@ var myDog = {
   "tails": 1,
   "friends": ["freeCodeCamp Campers"]
 };
-myDog['name'] = "Happy Coder"
+myDog['name'] = "Happy Coder";
 // Only change code below this line
